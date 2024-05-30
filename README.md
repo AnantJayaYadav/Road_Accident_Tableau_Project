@@ -11,3 +11,4 @@ Summary Statistics:
 4. Contributing Factors: Pie charts and bar graphs detailing the primary causes of accidents (e.g., road type, weather conditions).
 
 5. Vehicle Involvement: Breakdown of accidents by vehicle type (e.g., cars, motorcycles, trucks).
+https://public.tableau.com/app/profile/anant.jaya.yadav/viz/roadaccidentdashboardfinal/Dashboard1
